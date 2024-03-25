@@ -1,4 +1,4 @@
-const BACKEND_ROOT_URL = "https://new-server-tb4c.onrender.com/";
+const BACKEND_ROOT_URL = "https://server-8yd0.onrender.com";
 import { Todos } from "./class/todo.js";
 
 const list = document.querySelector("ul");
